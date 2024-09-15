@@ -1,0 +1,5 @@
+langchain_community
+langchain
+torch
+transformers
+langchain_core
